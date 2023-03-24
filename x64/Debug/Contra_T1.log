@@ -1,0 +1,3 @@
+﻿  Game.cpp
+D:\Contra_T1\Game.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Contra_T1.vcxproj -> D:\Contra_T1\x64\Debug\Contra_T1.exe
